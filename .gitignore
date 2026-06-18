@@ -1,0 +1,8 @@
+# Ignore models and large datasets
+*.pkl
+
+# Ignore IDE settings
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
